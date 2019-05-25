@@ -87,7 +87,7 @@ public class LoanCalcViewController implements Initializable   {
 	 * @version 1.0
 	 * @param event
 	 */
-	@SuppressWarnings("unchecked")
+	
 	@FXML
 	private void btnCalcLoan(ActionEvent event) {
 
